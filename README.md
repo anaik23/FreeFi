@@ -8,7 +8,7 @@
 
 ## Overview
 ### Description
-[This app helps you keep track of your finances. It lets you visualize your spending habits both in numbers and charts. This app also provides advice based on your prior expenses.]
+This app helps you keep track of your finances. It lets you visualize your spending habits both in numbers and charts. This app also provides advice based on your prior expenses.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
