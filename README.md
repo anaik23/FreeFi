@@ -68,7 +68,6 @@ This app helps you keep track of your finances. It lets you visualize your spend
 
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <a href="https://ibb.co/7K9L09x"><img src="https://i.ibb.co/hVqwTqx/Free-Fi-App-Wire-Frame.jpg" alt="Free-Fi-App-Wire-Frame" border="0"></a>
 
 ### [BONUS] Digital Wireframes & Mockups
