@@ -27,7 +27,7 @@ This app helps you keep track of your finances. It lets you visualize your spend
 - [ ] Users can Login
 - [ ] Users can Sign Up
 - [ ] Users can Log Out
-- [ ] Users can enter data their personal data during Sign Up (Name, email, Password, Location, Age, Salary, Household size)
+- [ ] Users can enter their personal data during Sign Up (Name, email, Password, Location, Age, Salary, Household size)
 - [ ] Users can enter monthly spending data
 - [ ] Users can view how they spent their money in a certain month in a chart format
 
@@ -39,28 +39,29 @@ This app helps you keep track of your finances. It lets you visualize your spend
 
 ### 2. Screen Archetypes
 
-* Login/Sign Up Screen
-   * 
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login Screen
+   * There are two options where users can put in information like email and password and login or if they have not registered then they can press Sign up button which will lead to Sign Up Screen. 
+* Sign Up Screen 
+   * Page 1 - If the user is a first time user of the app and presses the Sign up button on the login in screen they will be lead to the the Sign Up screen. In this screen the user will have to input information such as Name, email, Password which will be used to login to the app.
+   * Page 2 - After entering the inital information and then pressing SignUp button they are lead to a second page in the Sign up process called the Account details screen where they will input personal information such as Location, Age, Salary, Household size. 
+* Home Screen
+   * This allows the users to view their most recent expense graph if they have inputed anything. It also allows them to press a button to view past expenses. On this screen the user can press a button on the top bar to add a new expense report or sign off. 
+* Monthly Expense Screen
+   * This screen allows users to enter in how much they spent in a paticular month. There are multiple expense categories where the user can fillout with a certain dollar amount. 
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Add New Expense
+* Sign Off
+* Back Button leads you to the previous that you were on
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Forced login -> Account creation if no login is available 
+   * It leads to sign up screen
+
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
