@@ -24,19 +24,23 @@ This app helps you keep track of your finances. It lets you visualize your spend
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
-- [ ] Users can sign in
-- [x]
+- [ ] Users can Login
+- [ ] Users can Sign Up
+- [ ] Users can Log Out
+- [ ] Users can enter data their personal data during Sign Up (Name, email, Password, Location, Age, Salary, Household size)
+- [ ] Users can enter monthly spending data
+- [ ] Users can view how they spent their money in a certain month in a chart format
 
 **Optional Nice-to-have Stories**
-
-* [fill in your required user stories here]
-* ...
+- [ ] Users can view past expense graphs
+- [ ] Users can read and understand what each item means while their filling out their monthly spending data
+- [ ] The app can pull data from their bank/credit card account to automatically fill in their monthly spending amount
+- [ ] Allow with Login in with FaceID
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
+* Login/Sign Up Screen
+   * 
 * [list second screen here]
    * [list associated required story here]
    * ...
