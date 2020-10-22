@@ -46,8 +46,10 @@ This app helps you keep track of your finances. It lets you visualize your spend
    * Page 2 - After entering the inital information and then pressing SignUp button they are lead to a second page in the Sign up process called the Account details screen where they will input personal information such as Location, Age, Salary, Household size. 
 * Home Screen
    * This allows the users to view their most recent expense graph if they have inputed anything. It also allows them to press a button to view past expenses. On this screen the user can press a button on the top bar to add a new expense report or sign off. 
-* Monthly Expense Screen
+* Monthly Expense Reporting Screen
    * This screen allows users to enter in how much they spent in a paticular month. There are multiple expense categories where the user can fillout with a certain dollar amount. 
+* Past Expense Report Screen
+   * This screen allows the users to view their previous months expense report. It is a infinite scroll page with the latest expense on the top and the oldest on the bottom. 
 
 ### 3. Navigation
 
@@ -61,11 +63,13 @@ This app helps you keep track of your finances. It lets you visualize your spend
 
 * Forced login -> Account creation if no login is available 
    * It leads to sign up screen
+* Add New Expense
+   * It leads to Monthly Expense Reporting Screen
 
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://imgur.com/a/P7OQhEX" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
