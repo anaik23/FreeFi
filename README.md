@@ -69,7 +69,7 @@ This app helps you keep track of your finances. It lets you visualize your spend
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://imgur.com/a/P7OQhEX" width=600>
+<img src="" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
