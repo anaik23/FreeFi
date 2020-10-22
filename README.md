@@ -24,9 +24,8 @@ This app helps you keep track of your finances. It lets you visualize your spend
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
-
-* [fill in your required user stories here]
-* ...
+[] Users can sign in
+[] 
 
 **Optional Nice-to-have Stories**
 
