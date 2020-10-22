@@ -71,7 +71,7 @@ This app helps you keep track of your finances. It lets you visualize your spend
 <a href="https://ibb.co/7K9L09x"><img src="https://i.ibb.co/hVqwTqx/Free-Fi-App-Wire-Frame.jpg" alt="Free-Fi-App-Wire-Frame" border="0"></a>
 
 ### [BONUS] Digital Wireframes & Mockups
-
+<a href="https://ibb.co/sHHwhjv"><img src="https://i.ibb.co/gVVTGyM/Screen-Shot-2020-10-22-at-4-03-57-PM.png" alt="Screen-Shot-2020-10-22-at-4-03-57-PM" border="0"></a>
 ### [BONUS] Interactive Prototype
 
 ## Schema 
