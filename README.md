@@ -55,7 +55,7 @@ This app helps you keep track of your finances. It lets you visualize your spend
 
 * Add New Expense
 * Sign Off
-* Back Button leads you to the previous that you were on
+* Back Button leads you to the previous screen that the user was on
 
 **Flow Navigation** (Screen to Screen)
 
