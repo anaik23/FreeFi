@@ -73,7 +73,7 @@ This app helps you keep track of your finances. It lets you visualize your spend
 ### [BONUS] Digital Wireframes & Mockups
 <a href="https://ibb.co/sHHwhjv"><img src="https://i.ibb.co/gVVTGyM/Screen-Shot-2020-10-22-at-4-03-57-PM.png" alt="Screen-Shot-2020-10-22-at-4-03-57-PM" border="0"></a>
 ### [BONUS] Interactive Prototype
-
+<img src="http://g.recordit.co/bFotbdHJpc.gif" width=250><br>
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
